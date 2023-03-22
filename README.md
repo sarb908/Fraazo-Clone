@@ -53,11 +53,11 @@ This project is about building a web application to buy wide variety of fresh fr
 
 ## 🚀 Our Team Members:-
 
+-   Sarbjot Singh [[LinkedIn Profile](https://www.linkedin.com/in/sarbjot-/)]
+
 -   Ramesh [[LinkedIn Profile](https://www.linkedin.com/in/ramesh-mane-268a0014a/)]
 
 -   Shriram [[LinkedIn Profile](https://www.linkedin.com/in/shriram-deshpande-477590136/)]
-
--   Sarbjot Singh [[LinkedIn Profile](https://www.linkedin.com/in/sarbjot-/)]
 
 -   shubham barore [[LinkedIn Profile](https://www.linkedin.com/in/shubham-barore-572738159)]
 
@@ -156,4 +156,4 @@ Start the localhost server
 
 ### Netlify Link
 
-[https://fraazo-clone-web-17.netlify.app/](https://fraazo-clone-web-17.netlify.app/)
+[https://fraazo-sarb.netlify.app/](https://fraazo-sarb.netlify.app/)
