@@ -31,7 +31,6 @@ function App() {
         maxW="container.xl"
         mt={"88px"}
         boxSizing="border-box"
-        // display={"none"}
       >
         <Routes>
           <Route path="*" element={<ErrorPage />} />
